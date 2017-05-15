@@ -172,4 +172,6 @@ public class MainActivity extends AppCompatActivity {
     public String returnName(){
         return "Gavin Zhang";
     }
+    
+    //this is a test for git pull in Android Studio
 }
