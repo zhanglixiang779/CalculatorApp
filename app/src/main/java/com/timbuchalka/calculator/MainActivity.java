@@ -173,5 +173,5 @@ public class MainActivity extends AppCompatActivity {
         return "Gavin Zhang";
     }
     
-    //this is a test for git pull in Android Studio
+    //This is to demonstrate git pull from github to Android Studio.
 }
