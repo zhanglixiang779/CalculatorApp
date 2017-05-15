@@ -174,4 +174,5 @@ public class MainActivity extends AppCompatActivity {
     }
     
     //This is to demonstrate git pull from github to Android Studio.
+    //Another day, another comment.
 }
