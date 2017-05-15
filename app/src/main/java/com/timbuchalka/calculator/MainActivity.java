@@ -168,4 +168,8 @@ public class MainActivity extends AppCompatActivity {
         result.setText(operand1.toString());
         newNumber.setText("");
     }
+
+    public String returnName(){
+        return "Gavin Zhang";
+    }
 }
